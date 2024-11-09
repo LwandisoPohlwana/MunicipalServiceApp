@@ -6,7 +6,7 @@ This C# .NET Framework Windows Forms application allows citizens to report probl
 ## Environment Guidelines
 Before compiling and running the application, ensure you have the following:
 
-1. **Visual Studio**: Install Visual Studio 2019 or later.
+1. **Visual Studio**: Install Visual Studio 2022 or later.
    - You can download it from the official [Microsoft Visual Studio website](https://visualstudio.microsoft.com/).
 2. **.NET Framework**: Ensure you have the .NET Framework 4.7.2 (or higher) installed.
 3. **Operating System**: This application is designed for Windows systems.
