@@ -1,4 +1,3 @@
-# MunicipalServiceApp
 # Municipal Services Application - README
 
 ## Overview
