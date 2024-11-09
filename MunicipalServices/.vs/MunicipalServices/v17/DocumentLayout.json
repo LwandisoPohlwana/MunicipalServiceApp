@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AYANDAP\\Documents\\RBC S2\\APPR7112\\MunicipalServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7A4848-17F5-45C9-BA54-1C71D9AE013F}|MunicipalServices.csproj|c:\\users\\ayandap\\documents\\rbc s2\\appr7112\\municipalservices\\servicerequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7A4848-17F5-45C9-BA54-1C71D9AE013F}|MunicipalServices.csproj|solutionrelative:servicerequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7A4848-17F5-45C9-BA54-1C71D9AE013F}|MunicipalServices.csproj|C:\\Users\\AYANDAP\\Documents\\RBC S2\\APPR7112\\MunicipalServices\\servicerequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E7A4848-17F5-45C9-BA54-1C71D9AE013F}|MunicipalServices.csproj|solutionrelative:servicerequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7A4848-17F5-45C9-BA54-1C71D9AE013F}|MunicipalServices.csproj|C:\\Users\\AYANDAP\\Documents\\RBC S2\\APPR7112\\MunicipalServices\\localeventsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E7A4848-17F5-45C9-BA54-1C71D9AE013F}|MunicipalServices.csproj|solutionrelative:localeventsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7A4848-17F5-45C9-BA54-1C71D9AE013F}|MunicipalServices.csproj|C:\\Users\\AYANDAP\\Documents\\RBC S2\\APPR7112\\MunicipalServices\\localeventsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7A4848-17F5-45C9-BA54-1C71D9AE013F}|MunicipalServices.csproj|solutionrelative:localeventsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7A4848-17F5-45C9-BA54-1C71D9AE013F}|MunicipalServices.csproj|C:\\Users\\AYANDAP\\Documents\\RBC S2\\APPR7112\\MunicipalServices\\localeventsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7A4848-17F5-45C9-BA54-1C71D9AE013F}|MunicipalServices.csproj|solutionrelative:localeventsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRequestForm.cs",
+              "DocumentMoniker": "C:\\Users\\AYANDAP\\Documents\\RBC S2\\APPR7112\\MunicipalServices\\ServiceRequestForm.cs",
+              "RelativeDocumentMoniker": "ServiceRequestForm.cs",
+              "ToolTip": "C:\\Users\\AYANDAP\\Documents\\RBC S2\\APPR7112\\MunicipalServices\\ServiceRequestForm.cs",
+              "RelativeToolTip": "ServiceRequestForm.cs",
+              "ViewState": "AQIAAEIBAAAAAAAAAAAAAEIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:54:56.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LocalEventsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AYANDAP\\Documents\\RBC S2\\APPR7112\\MunicipalServices\\LocalEventsForm.Designer.cs",
+              "RelativeDocumentMoniker": "LocalEventsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\AYANDAP\\Documents\\RBC S2\\APPR7112\\MunicipalServices\\LocalEventsForm.Designer.cs",
+              "RelativeToolTip": "LocalEventsForm.Designer.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowGMAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:46:35.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocalEventsForm.cs",
+              "DocumentMoniker": "C:\\Users\\AYANDAP\\Documents\\RBC S2\\APPR7112\\MunicipalServices\\LocalEventsForm.cs",
+              "RelativeDocumentMoniker": "LocalEventsForm.cs",
+              "ToolTip": "C:\\Users\\AYANDAP\\Documents\\RBC S2\\APPR7112\\MunicipalServices\\LocalEventsForm.cs",
+              "RelativeToolTip": "LocalEventsForm.cs",
+              "ViewState": "AQIAAO4BAAAAAAAAAAAqwPkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:46:18.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocalEventsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AYANDAP\\Documents\\RBC S2\\APPR7112\\MunicipalServices\\LocalEventsForm.cs",
+              "RelativeDocumentMoniker": "LocalEventsForm.cs",
+              "ToolTip": "C:\\Users\\AYANDAP\\Documents\\RBC S2\\APPR7112\\MunicipalServices\\LocalEventsForm.cs [Design]",
+              "RelativeToolTip": "LocalEventsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:45:37.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceRequestForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AYANDAP\\Documents\\RBC S2\\APPR7112\\MunicipalServices\\ServiceRequestForm.cs",
+              "RelativeDocumentMoniker": "ServiceRequestForm.cs",
+              "ToolTip": "C:\\Users\\AYANDAP\\Documents\\RBC S2\\APPR7112\\MunicipalServices\\ServiceRequestForm.cs [Design]",
+              "RelativeToolTip": "ServiceRequestForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:39:28.813Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
